@@ -1,2 +1,4 @@
 # TableGroupFoldingProject
 tableView分组折叠/展开效果
+
+- 创建TableViewHeaderViewDelegate协议，给headerView添加tap点击手势并实现协议方法 tableViewHeaderClick
